@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   try
+   try/hhh
